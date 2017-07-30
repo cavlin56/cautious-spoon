@@ -1,0 +1,3 @@
+public class firstTest {
+    system.out.println("Hello world");
+}
